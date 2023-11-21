@@ -1,8 +1,8 @@
 # Happy gitting everyone!
 
-This is markdown readme file.
+## Hello!
 
-You can add images here as in any other markdown document:
+This is markdown readme file.
 
 ![Lake Olallie in October 2022](olallie.jpg)
 
